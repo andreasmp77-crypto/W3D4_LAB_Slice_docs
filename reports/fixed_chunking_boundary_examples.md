@@ -2,7 +2,7 @@
 
 This file shows the last 100 characters of the first few chunks for the podcast transcript and the PDF text using the fixed-size 500-character, 0-overlap configuration.
 
-## Podcast 500,0 (last 100 characters of first 5 chunks)
+## Podcast fixed 500 (last 100 characters of first 5 chunks)
 
 ### Chunk 1
 
@@ -13,29 +13,29 @@ This file shows the last 100 characters of the first few chunks for the podcast 
 ### Chunk 2
 
 ```text
- arguably the Magna Carta for ethical computing. The Ethics Guidelines for Trustworthy AI. This is a
+rguably the Magna Carta for ethical computing, the ethics guidelines for trustworthy AI. This is a h
 ```
 
 ### Chunk 3
 
 ```text
-explosion we have today. So why are we blowing the dust off this specific report? Because it's not d
+plosion we have today. So why are we blowing the dust off this specific report? Because it's not dus
 ```
 
 ### Chunk 4
 
 ```text
-tract concept like fairness and turn it into, I don't know, Python code. We've got three pillars, fo
+act concept like fairness and turn it into, I don't know, Python code. We've got three pillars, four
 ```
 
 ### Chunk 5
 
 ```text
-k of it like a three-legged stool. The first leg is lawful. The AI has to comply with all the regula
+of it like a three-legged stool. The first leg is lawful. The AI has to comply with all the regulati
 ```
 
 
-## PDF 500,0 (last 100 characters of first 5 chunks)
+## PDF fixed 500 (last 100 characters of first 5 chunks)
 
 ### Chunk 1
 
